@@ -1,0 +1,39 @@
+BASE
+
+o The minimum number of main (root-level) pages must be 4. (1/1)
+
+o A sitemap presenting the structure of the website (diagram, image, may include
+working links); (1/1)
+
+o A “Home” (or main page) link; (1/1)
+
+o The author’s email address (with the ability to send an email to the author); (0/1) 
+
+o A main navigation menu; (1/1)
+
+o Labels and notes showing that the site was created by a specific person, including the
+year of creation and other relevant information if necessary; (1/1)
+
+o At least one photo or image gallery; (1/1)
+
+o At least one electronic document available on the site (with the ability to download it). (1/1)
+
+HTML
+
+o Logical and physical text markup must be used where appropriate; (1/1)
+
+o At least one list (ordered or unordered); (1/1)
+
+o Images and other graphic elements; (1/1)
+
+o At least one visible table; (1/1)
+
+o At least one form that uses different form elements (the form does not have to be functional) (0/1)
+
+CSS
+
+o At least once, responsive design principles must be applied using media queries. (0/1)
+
+o At least one CSS animation (e.g., a hover effect on a button). (1/1)
+
+o At least one custom CSS class must be created for page layout (e.g., using grid or flexbox). (1/1)
