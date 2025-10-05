@@ -54,3 +54,10 @@ footer {
   margin-top: 20px;
   font-size: 14px;
 }
+
+.custom-text {
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 32px;
+  color: #683eff;
+  line-height: 1.6;
+}
