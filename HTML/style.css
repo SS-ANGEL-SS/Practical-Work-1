@@ -61,3 +61,13 @@ footer {
   color: #683eff;
   line-height: 1.6;
 }
+
+img {
+  width: 400px;
+}
+
+@media (max-width: 500px) {
+  img {
+    width: 100%;
+  }
+}
